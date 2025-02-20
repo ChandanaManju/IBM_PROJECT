@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
       - name: backend
-        image: my-repo/backend:latest
+        image: chandanam8217/backend:latest
         ports:
         - containerPort: 5000
